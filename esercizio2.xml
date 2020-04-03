@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	Studente: Leonardo Giglioli
+	Matricola: 563717
+	Corso: Codifica di testi 19-20
+-->
+<text>
+    il primo xml con validazione
+</text>
+<text />
+
+<!--
+esercizio2.xml:10: parser error : Extra content at the end of the document 
+<text />
+-->
