@@ -1,0 +1,8 @@
+<!ELEMENT articolo (titolo, paragrafo+) >
+<!ELEMENT titolo (#PCDATA | sottotitolo)* >
+<!ELEMENT sottotitolo (#PCDATA) >
+<!ELEMENT paragrafo (#PCDATA) >
+
+<!ATTLIST titolo nome CDATA #REQUIRED >
+<!ATTLIST paragrafo id CDATA #IMPLIED >
+<!ATTLIST sottotitolo codice CDATA #REQUIRED >

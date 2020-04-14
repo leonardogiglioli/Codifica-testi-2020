@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	Studente: Leonardo Giglioli
+	Matricola: 563717
+	Corso: Codifica di testi 19-20
+-->
+
+<!DOCTYPE articolo SYSTEM "esercizio6.dtd">
+<articolo>
+	<titolo nome="titolo">
+		Titolo articolo <sottotitolo codice="st1"> Sottotitolo articolo </sottotitolo>
+	</titolo>
+	<paragrafo id="p1">
+		Paragrafo 1
+	</paragrafo>
+	<paragrafo/>
+</articolo>
