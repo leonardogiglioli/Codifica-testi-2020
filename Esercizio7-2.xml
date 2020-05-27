@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	Studente: Leonardo Giglioli
+	Matricola: 563717
+	Corso: Codifica di testi 19-20
+-->
+
+<text>
+    <titolo>Shining</titolo>
+    <intestazione> II </intestazione>
+
+    <pagina n="5"/>
+    <p>
+        Diede un'occhiata dalla finestra della cucina e vide che se ne
+		stava tranquillamente seduto là sul marciapiede, senza [...]
+    </p>
+    <p>
+        [...] al confronto il rseto della settimana era soltanto un prelimi-<pagina n="6"/> 
+        nare. Le "liti del venerdì sera", le chiamava Jack, ma non c'era proprio
+		niente da ridere. La donna, che si chiamava [...]
+    </p>
+</text>
