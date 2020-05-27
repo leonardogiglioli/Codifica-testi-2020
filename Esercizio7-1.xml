@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+	Studente: Leonardo Giglioli
+	Matricola: 563717
+	Corso: Codifica di testi 19-20
+-->
+
+<text>
+    <titolo>Shining</titolo>
+    <intestazione> II </intestazione>
+
+    <pagina n="22">
+        <p>Diede un'occhiata dalla finestra della cucina e vide che se ne
+		stava tranquillamente seduto là sul marciapiede, senza [...]</p>
+        <p> [...] al confronto il rseto della settimana era soltanto un prelimi-
+    </pagina>
+    <pagina n="23"> nare. Le "liti del venerdì sera", le chiamava Jack, ma non 
+    c'era proprio niente da ridere. La donna, che si chiamava [...]
+        </p>
+    <pagina>
+</text> 
+
+<!-- 
+es.xml:17: parser error : expected '>'
+    </pagina>
+       ^
+es.xml:20: parser error : Opening and ending tag mismatch: pagina line 18 and p
+        </p>
+            ^
+es.xml:22: parser error : Opening and ending tag mismatch: pagina line 21 and text
+</text> 
+       ^
+es.xml:23: parser error : Premature end of data in tag pagina line 13
+
+^
+es.xml:23: parser error : Premature end of data in tag text line 9
+-->
